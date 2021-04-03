@@ -7,7 +7,7 @@
  * 1 1 1 1 1
  */
 
-package trainingManual;
+package trainingManualPartOne;
 
 import java.util.*;
 

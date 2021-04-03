@@ -2,7 +2,7 @@
  * Создать массив оценок произвольной длины, вывести максимальную и минимальную оценку, её (их) номера.
  */
 
-package trainingManual;
+package trainingManualPartOne;
 
 import java.util.*;
 

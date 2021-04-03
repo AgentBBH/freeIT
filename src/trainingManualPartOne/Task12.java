@@ -1,7 +1,7 @@
 /*
  * Найдите сумму первых n целых чисел, которые делятся на три
  */
-package trainingManual;
+package trainingManualPartOne;
 
 import java.util.Scanner;
 

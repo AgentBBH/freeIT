@@ -2,7 +2,7 @@
  * Имеется целое число (задать с помощью Random rand = new Random(); int x = rand.nextInt();)
  * Это число - количество денег в рублях. Вывести это число, добавив к нему слово "рублей" в правильном падеже
  */
-package trainingManual;
+package trainingManualPartOne;
 
 import java.util.Random;
 

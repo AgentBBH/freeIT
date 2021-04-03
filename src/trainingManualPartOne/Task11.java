@@ -2,7 +2,7 @@
  * Имеется целое число, определить является лиэто число простым, т.е. делится без остатка на 1 и себя
  */
 
-package trainingManual;
+package trainingManualPartOne;
 
 import java.util.Scanner;
 

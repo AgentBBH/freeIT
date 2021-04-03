@@ -6,7 +6,7 @@
  * D) недель + дней + часов + минут + секунд
  */
 
-package trainingManual;
+package trainingManualPartOne;
 
 public class Task3 {
     public static void main(String[] args) {

@@ -2,7 +2,7 @@
  * Имеется прямоугольное отверстие размерами a и b, определить можно ли его полностью закрыть
  * круглой картонкой радиусом r.
  */
-package trainingManual;
+package trainingManualPartOne;
 
 import java.util.Scanner;
 

@@ -2,7 +2,7 @@
  * Измените пример с суммой чисел таким образом, чтобы рассчитывалась не сумма, а произведение
  * т.е. факториал числа.
  */
-package trainingManual;
+package trainingManualPartOne;
 
 import java.util.Scanner;
 

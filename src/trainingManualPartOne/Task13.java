@@ -1,7 +1,7 @@
 /*
  * СОздать последовательность случайных чисел, найти и вывести наибольшее из них.
  */
-package trainingManual;
+package trainingManualPartOne;
 
 import java.util.*;
 

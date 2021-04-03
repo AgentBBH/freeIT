@@ -2,7 +2,7 @@
  * Определите сумму элементов одномерного массива, расположенных между минимальным и максимальным значениями.
  */
 
-package trainingManual;
+package trainingManualPartOne;
 
 import java.util.*;
 

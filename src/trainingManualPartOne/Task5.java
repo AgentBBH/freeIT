@@ -2,7 +2,7 @@
  * Дано 4-х значное число. Верно ли, что все цифры числа различны?
  */
 
-package trainingManual;
+package trainingManualPartOne;
 
 import java.util.Scanner;
 

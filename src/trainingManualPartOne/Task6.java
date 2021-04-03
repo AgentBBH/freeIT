@@ -3,7 +3,7 @@
  * Определите, является ли его последняя цифра семеркой.
  * Определите, является ли число чётным.
  */
-package trainingManual;
+package trainingManualPartOne;
 
 import java.util.Scanner;
 

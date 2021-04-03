@@ -2,7 +2,7 @@
  * Определить число, полученное выписыванием в обратном порядке цифр любого 4-х значного натурального числа n
  */
 
-package trainingManual;
+package trainingManualPartOne;
 
 import java.util.Scanner;
 
