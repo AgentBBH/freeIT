@@ -26,6 +26,10 @@ public class Task1 {
             System.out.println("Your number consist of two digit minus");
         } else if (number <= -100 && number >= -999) {
             System.out.println("Your number consist of three digit minus");
+        } else if (number > 999){
+            System.out.println("Your number consist of more three digit plus");
+        } else {
+            System.out.println("Your number consist of more three digit minus");
         }
 
     }

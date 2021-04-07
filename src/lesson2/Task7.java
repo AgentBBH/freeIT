@@ -19,19 +19,13 @@ public class Task7 {
             System.out.println(amountProg + " " + str + "ов");
         else {
             switch (amountProg % 10) {
-
+                case 1:
+                    System.out.println(amountProg + " " + str);
+                    break;
                 case 2:
                 case 3:
                 case 4:
                     System.out.println(amountProg + " " + str + "а");
-                    break;
-                default:
-                    break;
-            }
-
-            switch (amountProg % 10) {
-                case 1:
-                    System.out.println(amountProg + " " + str);
                     break;
                 case 5:
                 case 7:

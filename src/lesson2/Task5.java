@@ -46,6 +46,5 @@ public class Task5 {
         System.out.println("Amount of plus number: " + amountPlus);
         System.out.println("Amount of minus number: " + amountMinus);
         System.out.println("Amount of zero: " + amountZero);
-
     }
 }
