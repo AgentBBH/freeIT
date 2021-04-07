@@ -31,6 +31,5 @@ public class Task1 {
         } else {
             System.out.println("Your number consist of more three digit minus");
         }
-
     }
 }
