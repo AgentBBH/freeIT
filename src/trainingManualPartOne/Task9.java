@@ -20,6 +20,5 @@ public class Task9 {
         }
 
         System.out.println("Факториал " + n + " равен " + factorial);
-
     }
 }

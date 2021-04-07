@@ -33,6 +33,9 @@ public class Task16 {
         System.out.println("Maximal element: " + array[max]);
         System.out.println("Minimal element: " + array[min]);
 
+        // проверяем какой элемент идёт раньше: минимальный или максимальных
+        // так как максимальный элемент может идти раньше минимального
+        // поэтому цикл на сумму не запустится
         int tmp;
         if (min > max) {
             tmp = min;

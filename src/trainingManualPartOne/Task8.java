@@ -32,7 +32,5 @@ public class Task8 {
                 break;
         }
         System.out.println(x + " " + str);
-
-
     }
 }

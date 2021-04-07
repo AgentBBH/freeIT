@@ -23,6 +23,5 @@ public class Task7 {
         } else {
             System.out.println("Закрыть отверстие круглой картонкой получится");
         }
-
     }
 }

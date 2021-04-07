@@ -22,7 +22,7 @@ public class Task3 {
 
         System.out.println("A) " + min + " минут " + sec + " секунд");
         System.out.println("B) " + h + " часов " + min + " минут " + sec + " секунд");
-        System.out.println("C) " + day + " дней " + h + " часов " + min + " минут " + sec + " секунд");
+        System.out.println("C) " + d + " дней " + h + " часов " + min + " минут " + sec + " секунд");
         System.out.println("D) " + w + " недель " + day + " дней " + h + " часов " + min + " минут " + sec + " секунд");
     }
 }
