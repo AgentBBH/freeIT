@@ -7,7 +7,7 @@ public class Task3 {
     public static void main(String[] args) {
         int sum = 0;
         int count = 1;
-        while (sum < 256) {
+        while (sum <= 256) {
             sum += count;
             count *= 2;
         }
